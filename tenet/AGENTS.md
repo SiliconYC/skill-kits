@@ -25,6 +25,7 @@
 - 本地准备修改代码或执行任何 Git 分支、Worktree、提交、合并、推送操作前：必须先加载 `tenet-git-branch-workflow`，严格执行主工作区保护规定。
 - 创建或修改任何 Agent Skill（含 `SKILL.md` 规范与 references 文档）前：必须先加载 `tenet-chinese-skill-creator` 与 `tenet-markdown-format`。
 - 创建、修改或审查任何 Python 代码前：必须先加载 `tenet-python-general` 与 `tenet-ai-oriented-comments`。
+- 编写、放置或审查 Python 测试脚本及测试数据文件前：必须先加载 `tenet-python-testing`。
 - 编写、重构、审查或专项清理代码注释（含冗余注释清理）前：必须先加载 `tenet-ai-oriented-comments`。
 - 创建、修改或审查任何 Markdown 文档（含业务文档、技术文档、README、Skill）前：必须先加载 `tenet-markdown-format`。
 - 对新建的 GitHub 仓库进行初始化（检查 `main` 分支、补全 `.gitignore`、创建 `dev` 分支并设为默认分支）前：必须先加载 `tenet-github-repo-init`。
