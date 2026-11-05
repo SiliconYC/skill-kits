@@ -8,6 +8,7 @@
 
 # 日志
 *.log
+*历史记录.json
 
 # React 包和产物
 node_modules
@@ -29,5 +30,3 @@ node_modules
 .superpowers
 docs/superpowers
 
-# 飞将专属文件
-.cm
