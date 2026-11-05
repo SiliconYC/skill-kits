@@ -61,6 +61,7 @@ node_modules
 *.pyo
 *.swp
 *.swo
+/本地测试留痕/
 
 # AI Agents 遗留文件
 .claude
