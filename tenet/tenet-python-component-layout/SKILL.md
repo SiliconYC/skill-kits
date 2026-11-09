@@ -1,6 +1,6 @@
 ---
 name: tenet-python-component-layout
-description: 当新增、修改、拆分、重构或审查 Python 内聚组件，或者需要确定组件唯一入口、内部目录层级、实现脚本归属及相对导入方式时，使用本 Skill。
+description: 新增和修改 Python 内聚组件时，使用本 Skill。本 Skill 推荐采用一种合理嵌套的 Python 内聚组件目录结构，避免了大量 Python 文件的无序堆放。
 ---
 
 # Python 内聚组件局部组织规范
