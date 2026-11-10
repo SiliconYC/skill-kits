@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文文档语言规范"
+  short_description: "统一中文文档标题与术语，清除无意义英文对译并保护真实代码名称"
+  default_prompt: "请使用 $tenet-chinese-documentation 审查这份中文文档的标题、术语和英文对译。"
